@@ -11,7 +11,7 @@ this.addEventListener('install', function(event) {
                 '../css/materialdesignicons.css',
                 '../css/materialdesignicons.css.map',
                  // IMAGENS
-                '../assets/hbsm.jpg',
+                '../assets/dev-icon-7.jpg',
                 '../assets/logo.png',
                 '../assets/favicon.ico',
 
